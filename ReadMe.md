@@ -9,11 +9,13 @@
 [![PUSH_SWAP](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/TiagoDev88/push_swap) 
 
 
+<h2 align="center"><strong>💻 Tech Stack</strong></h2>
 
---------------------------------------------------------------------------------------------------
-# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-# 📊 GitHub Stats:
+
+
+<h2 align="center"><strong>📊 GitHub Stats</strong></h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=TiagoDev88&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TiagoDev88&theme=github_dark_dimmed&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDev88&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
