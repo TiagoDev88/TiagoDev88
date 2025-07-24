@@ -7,6 +7,7 @@
 [![PIPEX](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/pipexn.png)](https://github.com/TiagoDev88/pipex) 
 [![SO_LONG](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/so_longm.png)](https://github.com/TiagoDev88/so_long) 
 [![PUSH_SWAP](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/TiagoDev88/push_swap) 
+[![MINISHELL](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/TiagoDev88/minishell) 
 
 
 <h2 align="center"><strong>💻 Tech Stack</strong></h2>
