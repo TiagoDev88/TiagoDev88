@@ -8,6 +8,9 @@
 [![SO_LONG](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/so_longm.png)](https://github.com/TiagoDev88/so_long) 
 [![PUSH_SWAP](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/TiagoDev88/push_swap) 
 [![MINISHELL](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/TiagoDev88/minishell) 
+[![PHILOSOPHERS](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/TiagoDev88/philosophers) 
+
+
 
 
 <h2 align="center"><strong>💻 Tech Stack</strong></h2>
