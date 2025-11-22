@@ -9,6 +9,7 @@
 [![PUSH_SWAP](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/TiagoDev88/push_swap) 
 [![MINISHELL](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/TiagoDev88/minishell) 
 [![PHILOSOPHERS](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/TiagoDev88/philosophers) 
+[![CUB3D](https://github.com/TiagoDev88/42-project-badges/blob/main/badges/cub3de.png)](https://github.com/TiagoDev88/cub3D)
 
 
 
